@@ -5,4 +5,8 @@ manh add new function
 commit 2
 commit 22
 
+Hi hi
+
+
 New line 8
+
