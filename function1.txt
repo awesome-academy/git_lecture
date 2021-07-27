@@ -4,5 +4,9 @@ Add new function hieu_ngu
 manh add new function
 commit 2
 commit 22
+<<<<<<< HEAD
 
 New line 8
+=======
+phongvv
+>>>>>>> eb1d202 (Add new line)
