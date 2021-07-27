@@ -4,5 +4,9 @@ Add new function hieu_ngu
 manh add new function
 commit 2
 commit 22
+<<<<<<< HEAD
 
 New line 8
+=======
+Mai Quang Huy 
+>>>>>>> add new line to file function1.txt
