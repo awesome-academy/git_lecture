@@ -4,5 +4,4 @@ Add new function hieu_ngu
 manh add new function
 commit 2
 commit 22
-
-New line 8
+dam tien dat
