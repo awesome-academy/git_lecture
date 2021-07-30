@@ -9,3 +9,7 @@ New line 8
 manh do task 1
 
 manh do task 2
+
+nguyen do task 2
+
+nguyen <3 ---- tao rebase
