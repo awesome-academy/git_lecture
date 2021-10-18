@@ -10,10 +10,3 @@ New line 8
 manh do task 1
 
 manh do task 2
-
-<<<<<<< HEAD
-Tam add new task 1
-
-=======
-task1 - tien
->>>>>>> 1f5666f (task1 tien)
