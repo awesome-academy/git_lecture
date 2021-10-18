@@ -10,3 +10,7 @@ New line 8
 manh do task 1
 
 manh do task 2
+
+them moi line nay
+task1 - tien
+
