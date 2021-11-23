@@ -10,3 +10,4 @@ New line 8
 manh do task 1
 
 manh do task 2
+Fix bug
