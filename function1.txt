@@ -7,9 +7,7 @@ commit 22
 
 New line 8
 
-manh do task 1
 
-bỏ
 Tam add new task 1
 thêm
 task1 - tien
