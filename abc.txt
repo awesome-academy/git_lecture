@@ -1,0 +1,6 @@
+hi 
+hello
+
+comit 2
+commit 3
+ gio moi commit 3 ne
